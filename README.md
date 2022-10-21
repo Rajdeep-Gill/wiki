@@ -8,17 +8,25 @@ In the search bar, you are able to lookup for pages matching the search response
 Built using the django framework in python
 
 
-Starting Page:
+###Starting Page:
+
 ![Start Page](/Images/Main%20Page.png)
 
-A Single Article:
+###A Single Article:
+
 ![Article](/Images/Article%20Page.png)
 
-Edit Page:
+
+###Edit Page:
+
 ![Article](/Images/Edit%20Page.png)
 
-New Entry Page:
+
+###New Entry Page:
+
 ![Article](/Images/New%20Entry%20Page.png)
 
-Search Page:
+
+###Search Page:
+
 ![Article](/Images/Search%20Page.png)
